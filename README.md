@@ -2,7 +2,7 @@
 Robô Arduino Controlado por Bluetooth
 
 ## Linguagem de Programação usada:
-* C
+* C++
 
 ## Hardware usado:
 * Arduino Leonardo
